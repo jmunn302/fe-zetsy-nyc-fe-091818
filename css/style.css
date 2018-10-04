@@ -49,4 +49,10 @@ img {
 .four-images:hover {
   opacity: .5;
 }
+
+.copyright {
+  font-size: 9px;
+  text-align: right;
+  font-style: italic;
+}
 /* Write all remaining styles here */
