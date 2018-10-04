@@ -43,6 +43,7 @@ img {
 .four-images {
   width: 23%;
   margin: 1%;
+  border: 2px solid lightgrey;
 }
 
 /* Write all remaining styles here */
